@@ -1,0 +1,14 @@
++notimingchecks
++libext+.v
++systemverilogext+sv
++verilog2001ext+v 
++verilog2001ext+hv
++verilog2001ext+vh
++verilog2001ext+inc
+-sverilog
+
+-novopt
+
++incdir+${BF_HOME}
+
+${BF_HOME}/testbench/buffer_tb.v
